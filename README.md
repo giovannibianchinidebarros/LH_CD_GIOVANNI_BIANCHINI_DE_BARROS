@@ -80,8 +80,8 @@ Siga as instruções abaixo para configurar o ambiente e executar o projeto.
 1. Clonar o Repositório:
 
 ```
-git clone <URL do seu repositório>
-cd nome-do-repositório
+git clone https://github.com/giovannibianchinidebarros/LH_CD_GIOVANNI_BIANCHINI_DE_BARROS.git
+cd LH_CD_GIOVANNI_BIANCHINI_DE_BARROS
 ```
 
 2. Instalar Dependências. Eu recomendo usar um ambiente virtual:
